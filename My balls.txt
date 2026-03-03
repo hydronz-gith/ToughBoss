@@ -1,3 +1,7 @@
 My delightful moobs.
 
+<<<<<<< Updated upstream
 Markimoos moobs are Better i say
+=======
+Markimoos moobs are Great i say
+>>>>>>> Stashed changes
